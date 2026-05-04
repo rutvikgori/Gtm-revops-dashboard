@@ -1,0 +1,105 @@
+"account_id","account_name","segment","industry","region","rep_name","territory_name","last_activity_date","days_since_activity","icp_score","churn_risk_score","open_pipeline_usd","stale_category"
+ACC0153,Vantage Networks,Mid-Market,Financial Services,West,Tatum Young,Mid-Market – Financial Services,"2025-01-14",474,0.45,0.91,237492,Critical — 90+ days
+ACC0137,Catalyst Ventures,Mid-Market,Healthcare,West,Cameron Taylor,Mid-Market – Healthcare,"2025-01-24",464,0.38,0.61,161640,Critical — 90+ days
+ACC0126,Archway Consulting,Strategic,Financial Services,East,Finley Jackson,Strategic – Financial Services,"2025-01-29",459,0.79,0.96,5956161,Critical — 90+ days
+ACC0154,Pinnacle Works,Mid-Market,Financial Services,West,Tatum Young,Mid-Market – Financial Services,"2025-02-07",450,0.4,0.18,275989,Critical — 90+ days
+ACC0036,Nova Corp,SMB,Technology,West,Mason Robinson,SMB – Technology,"2025-02-13",444,0.5,0.23,59518,Critical — 90+ days
+ACC0198,Catalyst Media,Enterprise,Healthcare,Central,Morgan Smith,Enterprise – Healthcare,"2025-02-16",441,0.37,0.61,1926631,Critical — 90+ days
+ACC0050,Pinnacle Labs,SMB,Healthcare,West,Reese Lewis,SMB – Healthcare,"2025-02-20",437,0.62,0.82,57223,Critical — 90+ days
+ACC0068,Luminary Technologies,Enterprise,Financial Services,Central,Drew Miller,Enterprise – Financial Services,"2025-02-23",434,0.39,0.97,0,Critical — 90+ days
+ACC0048,Cobalt Global,Strategic,Financial Services,West,Tristan Hernandez,Strategic – Financial Services,"2025-03-06",423,0.63,0.01,0,Critical — 90+ days
+ACC0025,Archway Networks,SMB,Healthcare,East,Quinn Rodriguez,SMB – Healthcare,"2025-03-11",418,0.65,0.76,145236,Critical — 90+ days
+ACC0187,Pinnacle Industries,Mid-Market,Technology,APAC,Jamie Davis,Mid-Market – Technology,"2025-03-14",415,0.91,0.66,301153,Critical — 90+ days
+ACC0183,Pinnacle Technologies,SMB,Technology,APAC,Kendall Martin,SMB – Technology,"2025-03-18",411,0.86,0.51,54930,Critical — 90+ days
+ACC0083,Stratos Consulting,Enterprise,Manufacturing,West,Hayden White,Enterprise – Manufacturing,"2025-03-21",408,0.33,0.48,419348,Critical — 90+ days
+ACC0021,Meridian Digital,Enterprise,Retail,APAC,Wynne King,Enterprise – Retail,"2025-03-23",406,0.48,0.7,447429,Critical — 90+ days
+ACC0166,Pinnacle Systems,Enterprise,Financial Services,Central,Spencer Hall,Enterprise – Financial Services,"2025-03-26",403,0.39,0.5,2320384,Critical — 90+ days
+ACC0119,Fusion Technologies,Mid-Market,Financial Services,West,Blake Moore,Mid-Market – Financial Services,"2025-04-01",397,0.8,0.94,0,Critical — 90+ days
+ACC0093,Fusion Consulting,Mid-Market,Healthcare,Central,Cameron Taylor,Mid-Market – Healthcare,"2025-04-08",390,0.99,0.59,1046147,Critical — 90+ days
+ACC0174,Apex Digital,SMB,Healthcare,West,Reese Lewis,SMB – Healthcare,"2025-04-20",378,0.58,0.48,76316,Critical — 90+ days
+ACC0031,Stratos Partners,Enterprise,Technology,APAC,Avery Wilson,Enterprise – Technology,"2025-05-13",355,0.83,0.1,1319515,Critical — 90+ days
+ACC0033,Luminary Media,SMB,Financial Services,Central,Jordan Chen,SMB – Financial Services,"2025-05-19",349,0.73,0.62,119881,Critical — 90+ days
+ACC0136,Vantage Global,SMB,Technology,West,Mason Robinson,SMB – Technology,"2025-05-25",343,0.55,0.82,85073,Critical — 90+ days
+ACC0034,Nexus Networks,SMB,Financial Services,Central,Jordan Chen,SMB – Financial Services,"2025-06-01",336,0.33,0.05,0,Critical — 90+ days
+ACC0078,Nexus Networks,Enterprise,Manufacturing,East,Hayden White,Enterprise – Manufacturing,"2025-06-08",329,0.33,0.55,450932,Critical — 90+ days
+ACC0144,Nexus Media,Mid-Market,Technology,East,Jamie Davis,Mid-Market – Technology,"2025-06-11",326,0.32,0.05,0,Critical — 90+ days
+ACC0115,Zenith Labs,SMB,Healthcare,West,Quinn Rodriguez,SMB – Healthcare,"2025-06-28",309,0.62,0.89,65374,Critical — 90+ days
+ACC0097,Nova Digital,Enterprise,Technology,West,Peyton Clark,Enterprise – Technology,"2025-07-09",298,0.66,0.73,0,Critical — 90+ days
+ACC0017,Fusion Corp,Mid-Market,Technology,West,Jamie Davis,Mid-Market – Technology,"2025-07-14",293,0.36,0.03,429714,Critical — 90+ days
+ACC0123,Pinnacle Technologies,Mid-Market,Healthcare,East,Alex Patel,Mid-Market – Healthcare,"2025-07-27",280,0.89,0.54,350019,Critical — 90+ days
+ACC0066,Fusion Systems,Mid-Market,Healthcare,APAC,Alex Patel,Mid-Market – Healthcare,"2025-07-31",276,0.85,0.06,511366,Critical — 90+ days
+ACC0150,Catalyst Corp,Mid-Market,Financial Services,East,Blake Moore,Mid-Market – Financial Services,"2025-08-04",272,0.82,0.14,181987,Critical — 90+ days
+ACC0040,Zenith Global,SMB,Financial Services,Central,Jordan Chen,SMB – Financial Services,"2025-08-13",263,0.8,0.88,43303,Critical — 90+ days
+ACC0032,Fusion Dynamics,Enterprise,Healthcare,APAC,Morgan Smith,Enterprise – Healthcare,"2025-08-18",258,0.91,0.65,568379,Critical — 90+ days
+ACC0101,Archway Group,Enterprise,Manufacturing,West,Casey Williams,Enterprise – Manufacturing,"2025-08-19",257,0.69,0.44,2548351,Critical — 90+ days
+ACC0142,Nexus Global,Enterprise,Financial Services,East,Drew Miller,Enterprise – Financial Services,"2025-08-24",252,0.67,0.77,0,Critical — 90+ days
+ACC0035,Summit Consulting,SMB,Technology,East,Mason Robinson,SMB – Technology,"2025-08-29",247,0.94,0.79,12815,Critical — 90+ days
+ACC0038,Horizon Solutions,SMB,Financial Services,APAC,Jordan Chen,SMB – Financial Services,"2025-08-29",247,0.72,0.82,33091,Critical — 90+ days
+ACC0094,Meridian Global,Enterprise,Technology,Central,Avery Wilson,Enterprise – Technology,"2025-09-12",233,0.77,0.61,1128576,Critical — 90+ days
+ACC0191,Horizon Solutions,SMB,Healthcare,APAC,Reese Lewis,SMB – Healthcare,"2025-10-09",206,0.5,0.01,0,Critical — 90+ days
+ACC0132,Nova Media,Strategic,Manufacturing,West,Taylor Johnson,Strategic – Manufacturing,"2025-10-12",203,0.33,0.63,5426210,Critical — 90+ days
+ACC0177,Vertex Ventures,Enterprise,Financial Services,West,Emerson Thomas,Enterprise – Financial Services,"2025-10-19",196,0.59,0.48,781225,Critical — 90+ days
+ACC0079,Archway Media,SMB,Healthcare,East,Reese Lewis,SMB – Healthcare,"2025-10-20",195,0.79,0.66,65472,Critical — 90+ days
+ACC0100,Summit Dynamics,SMB,Healthcare,APAC,Quinn Rodriguez,SMB – Healthcare,"2025-10-21",194,0.83,0.05,74797,Critical — 90+ days
+ACC0196,Nexus Technologies,Strategic,Manufacturing,APAC,Logan Garcia,Strategic – Manufacturing,"2025-10-27",188,0.48,0.4,0,Critical — 90+ days
+ACC0030,Fusion Consulting,Mid-Market,Healthcare,APAC,Alex Patel,Mid-Market – Healthcare,"2025-10-31",184,0.67,0.57,320318,Critical — 90+ days
+ACC0082,Cobalt Corp,Mid-Market,Financial Services,East,Hunter Harris,Mid-Market – Financial Services,"2025-11-26",158,0.84,0.41,514038,Critical — 90+ days
+ACC0143,Apex Partners,Strategic,Financial Services,East,Finley Jackson,Strategic – Financial Services,"2025-11-27",157,0.88,0.94,2343662,Critical — 90+ days
+ACC0081,Fusion Global,SMB,Healthcare,Central,Reese Lewis,SMB – Healthcare,"2025-12-03",151,0.8,0.5,117816,Critical — 90+ days
+ACC0016,Apex Analytics,Enterprise,Healthcare,West,Morgan Smith,Enterprise – Healthcare,"2025-12-07",147,0.33,0.36,0,Critical — 90+ days
+ACC0167,Zenith Labs,Enterprise,Financial Services,Central,Sage Lee,Enterprise – Financial Services,"2025-12-14",140,0.89,0.14,1825298,Critical — 90+ days
+ACC0145,Fusion Ventures,SMB,Financial Services,APAC,Jordan Chen,SMB – Financial Services,"2025-12-19",135,0.69,0.41,42329,Critical — 90+ days
+ACC0049,Summit Group,Mid-Market,Technology,APAC,Jamie Davis,Mid-Market – Technology,"2025-12-21",133,0.73,0.38,661542,Critical — 90+ days
+ACC0190,Crest Group,Mid-Market,Healthcare,West,Alex Patel,Mid-Market – Healthcare,"2025-12-23",131,0.37,0.91,168459,Critical — 90+ days
+ACC0141,Nexus Media,Enterprise,Manufacturing,Central,Casey Williams,Enterprise – Manufacturing,"2025-12-24",130,0.52,0.96,0,Critical — 90+ days
+ACC0095,Orbit Ventures,Enterprise,Healthcare,Central,Morgan Smith,Enterprise – Healthcare,"2026-01-03",120,0.64,0.06,2007572,Critical — 90+ days
+ACC0103,Archway Networks,Enterprise,Healthcare,West,Morgan Smith,Enterprise – Healthcare,"2026-01-04",119,0.37,0.79,592948,Critical — 90+ days
+ACC0173,Summit Consulting,SMB,Financial Services,East,Jordan Chen,SMB – Financial Services,"2026-01-10",113,0.76,0.91,38624,Critical — 90+ days
+ACC0180,Ember Technologies,Enterprise,Technology,Central,Peyton Clark,Enterprise – Technology,"2026-01-15",108,0.4,0.41,471916,Critical — 90+ days
+ACC0077,Orbit Partners,Mid-Market,Financial Services,APAC,Hunter Harris,Mid-Market – Financial Services,"2026-01-25",98,0.74,0.65,801989,Critical — 90+ days
+ACC0085,Vantage Capital,Enterprise,Retail,APAC,Wynne King,Enterprise – Retail,"2026-02-03",89,0.96,0.1,795334,At Risk — 60-90 days
+ACC0195,Fusion Solutions,Mid-Market,Technology,APAC,Jamie Davis,Mid-Market – Technology,"2026-02-05",87,0.59,0.56,142460,At Risk — 60-90 days
+ACC0146,Ember Global,Mid-Market,Healthcare,Central,Alex Patel,Mid-Market – Healthcare,"2026-02-06",86,0.74,0.12,0,At Risk — 60-90 days
+ACC0170,Zenith Ventures,Enterprise,Technology,West,Avery Wilson,Enterprise – Technology,"2026-02-08",84,0.77,0.92,0,At Risk — 60-90 days
+ACC0029,Vertex Group,Enterprise,Financial Services,Central,Drew Miller,Enterprise – Financial Services,"2026-02-26",66,0.53,0.01,933347,At Risk — 60-90 days
+ACC0111,Cobalt Digital,Enterprise,Retail,Central,Wynne King,Enterprise – Retail,"2026-03-01",63,0.84,0.0,993052,At Risk — 60-90 days
+ACC0054,Nexus Solutions,Mid-Market,Financial Services,East,Tatum Young,Mid-Market – Financial Services,"2026-03-03",61,0.43,0.81,0,At Risk — 60-90 days
+ACC0010,Nexus Analytics,Enterprise,Financial Services,APAC,Emerson Thomas,Enterprise – Financial Services,"2026-03-10",54,0.37,0.07,530079,Warning — 30-60 days
+ACC0004,Pinnacle Partners,Enterprise,Technology,APAC,Peyton Clark,Enterprise – Technology,"2026-03-19",45,0.57,0.32,525018,Warning — 30-60 days
+ACC0181,Nexus Partners,SMB,Financial Services,Central,Jordan Chen,SMB – Financial Services,"2026-03-24",40,0.75,0.22,127243,Warning — 30-60 days
+ACC0118,Summit Solutions,Enterprise,Manufacturing,West,Hayden White,Enterprise – Manufacturing,"2026-03-27",37,0.99,0.69,1782285,Warning — 30-60 days
+ACC0108,Catalyst Labs,Strategic,Manufacturing,East,Taylor Johnson,Strategic – Manufacturing,"2026-03-28",36,0.33,0.74,1982769,Warning — 30-60 days
+ACC0007,Archway Analytics,Mid-Market,Financial Services,Central,Hunter Harris,Mid-Market – Financial Services,"",,0.61,0.35,0,Warning — 30-60 days
+ACC0011,Luminary Media,Mid-Market,Healthcare,East,Cameron Taylor,Mid-Market – Healthcare,"",,0.51,0.17,411659,Warning — 30-60 days
+ACC0012,Nova Capital,Strategic,Manufacturing,West,Mackenzie Martinez,Strategic – Manufacturing,"",,0.41,0.99,1642558,Warning — 30-60 days
+ACC0014,Pinnacle Dynamics,Mid-Market,Technology,East,Jamie Davis,Mid-Market – Technology,"",,0.41,0.41,292266,Warning — 30-60 days
+ACC0019,Pinnacle Labs,Mid-Market,Financial Services,West,Hunter Harris,Mid-Market – Financial Services,"",,0.63,0.54,638319,Warning — 30-60 days
+ACC0020,Summit Solutions,Strategic,Manufacturing,East,Taylor Johnson,Strategic – Manufacturing,"",,0.56,0.26,6525968,Warning — 30-60 days
+ACC0023,Fusion Services,Mid-Market,Financial Services,APAC,Blake Moore,Mid-Market – Financial Services,"",,0.34,0.69,410683,Warning — 30-60 days
+ACC0024,Luminary Media,Strategic,Manufacturing,West,Mackenzie Martinez,Strategic – Manufacturing,"",,0.7,0.9,0,Warning — 30-60 days
+ACC0026,Luminary Works,SMB,Healthcare,East,Quinn Rodriguez,SMB – Healthcare,"",,0.96,0.13,0,Warning — 30-60 days
+ACC0039,Vantage Industries,SMB,Healthcare,East,Quinn Rodriguez,SMB – Healthcare,"",,0.83,0.16,109197,Warning — 30-60 days
+ACC0042,Luminary Ventures,Enterprise,Retail,Central,Skyler Walker,Enterprise – Retail,"",,0.79,0.64,1182749,Warning — 30-60 days
+ACC0046,Cobalt Systems,SMB,Healthcare,West,Reese Lewis,SMB – Healthcare,"",,0.32,0.65,270337,Warning — 30-60 days
+ACC0052,Pinnacle Services,Enterprise,Financial Services,Central,Drew Miller,Enterprise – Financial Services,"",,0.69,0.11,1851221,Warning — 30-60 days
+ACC0053,Luminary Works,Enterprise,Healthcare,APAC,Morgan Smith,Enterprise – Healthcare,"",,0.54,0.26,0,Warning — 30-60 days
+ACC0058,Fusion Ventures,Enterprise,Healthcare,West,Morgan Smith,Enterprise – Healthcare,"",,0.75,0.85,380897,Warning — 30-60 days
+ACC0062,Pinnacle Ventures,SMB,Financial Services,West,Jordan Chen,SMB – Financial Services,"",,0.48,0.87,173241,Warning — 30-60 days
+ACC0063,Pinnacle Networks,SMB,Financial Services,Central,Jordan Chen,SMB – Financial Services,"",,0.71,0.5,0,Warning — 30-60 days
+ACC0071,Stratos Networks,Mid-Market,Technology,East,Jamie Davis,Mid-Market – Technology,"",,0.39,0.82,514322,Warning — 30-60 days
+ACC0084,Horizon Partners,Enterprise,Technology,West,Avery Wilson,Enterprise – Technology,"",,0.3,0.67,1126348,Warning — 30-60 days
+ACC0086,Crest Analytics,Mid-Market,Financial Services,East,Blake Moore,Mid-Market – Financial Services,"",,0.75,0.05,453920,Warning — 30-60 days
+ACC0092,Meridian Consulting,Enterprise,Technology,West,Avery Wilson,Enterprise – Technology,"",,0.86,0.7,944798,Warning — 30-60 days
+ACC0096,Cobalt Capital,Enterprise,Healthcare,West,Morgan Smith,Enterprise – Healthcare,"",,0.31,0.67,2652395,Warning — 30-60 days
+ACC0106,Nexus Services,Enterprise,Healthcare,West,Morgan Smith,Enterprise – Healthcare,"",,0.8,0.76,0,Warning — 30-60 days
+ACC0110,Vantage Digital,Strategic,Manufacturing,APAC,Taylor Johnson,Strategic – Manufacturing,"",,0.62,0.41,0,Warning — 30-60 days
+ACC0113,Pinnacle Technologies,Mid-Market,Financial Services,East,Hunter Harris,Mid-Market – Financial Services,"",,0.78,0.66,214185,Warning — 30-60 days
+ACC0130,Luminary Digital,Mid-Market,Financial Services,East,Blake Moore,Mid-Market – Financial Services,"",,0.43,0.43,230829,Warning — 30-60 days
+ACC0139,Catalyst Partners,Enterprise,Retail,East,Dakota Anderson,Enterprise – Retail,"",,0.57,0.52,0,Warning — 30-60 days
+ACC0147,Pinnacle Group,Mid-Market,Healthcare,East,Cameron Taylor,Mid-Market – Healthcare,"",,0.75,0.07,247084,Warning — 30-60 days
+ACC0158,Crest Solutions,Mid-Market,Healthcare,Central,Alex Patel,Mid-Market – Healthcare,"",,0.79,0.96,224293,Warning — 30-60 days
+ACC0159,Horizon Partners,Strategic,Financial Services,APAC,Tristan Hernandez,Strategic – Financial Services,"",,0.3,0.64,0,Warning — 30-60 days
+ACC0163,Nova Capital,Mid-Market,Financial Services,East,Tatum Young,Mid-Market – Financial Services,"",,0.81,0.58,0,Warning — 30-60 days
+ACC0172,Pinnacle Industries,SMB,Healthcare,East,Quinn Rodriguez,SMB – Healthcare,"",,0.88,0.38,230981,Warning — 30-60 days
+ACC0189,Orbit Systems,SMB,Healthcare,West,Reese Lewis,SMB – Healthcare,"",,0.79,0.38,0,Warning — 30-60 days
+ACC0192,Vertex Group,Mid-Market,Financial Services,Central,Hunter Harris,Mid-Market – Financial Services,"",,0.7,0.21,468478,Warning — 30-60 days

@@ -1,0 +1,26 @@
+"account_id","account_name","segment","industry","region","annual_revenue_usd","icp_score","priority_tier","expansion_potential_usd","engagement_status"
+ACC0065,Orbit Ventures,SMB,Retail,West,106603,0.99,Tier 1,8000.0,Stale 90+ days
+ACC0127,Nexus Solutions,Mid-Market,Retail,West,3085113,0.98,Tier 1,160000.0,Stale 90+ days
+ACC0037,Archway Industries,SMB,Retail,Central,286199,0.98,Tier 1,48000.0,Stale 90+ days
+ACC0151,Apex Global,Enterprise,Healthcare,Central,20363287,0.97,Tier 1,2709000.0,At Risk 30-90 days
+ACC0044,Nova Systems,Mid-Market,Retail,Central,4681663,0.97,Tier 1,646000.0,Stale 90+ days
+ACC0138,Pinnacle Global,SMB,Financial Services,West,356200,0.97,Tier 1,38000.0,Stale 90+ days
+ACC0072,Elevate Inc,SMB,Technology,Central,368282,0.96,Tier 1,59000.0,Stale 90+ days
+ACC0200,Stratos Labs,SMB,Manufacturing,Central,419380,0.95,Tier 1,27000.0,Stale 90+ days
+ACC0164,Archway Solutions,Strategic,Manufacturing,West,90592138,0.93,Tier 1,11915000,Stale 90+ days
+ACC0009,Fusion Labs,Strategic,Technology,East,26049999,0.92,Tier 1,4748000.0,Stale 90+ days
+ACC0104,Archway Industries,SMB,Manufacturing,East,386306,0.92,Tier 1,57000.0,Stale 90+ days
+ACC0182,Meridian Analytics,Enterprise,Technology,Central,24349219,0.91,Tier 1,2019000.0,Stale 90+ days
+ACC0087,Apex Industries,Mid-Market,Manufacturing,East,4284335,0.91,Tier 1,446000.0,Stale 90+ days
+ACC0090,Vertex Dynamics,Mid-Market,Technology,APAC,1704409,0.91,Tier 1,180000.0,Stale 90+ days
+ACC0125,Elevate Capital,Mid-Market,Manufacturing,East,1186777,0.91,Tier 1,102000.0,Stale 90+ days
+ACC0197,Cobalt Capital,Strategic,Technology,West,102268086,0.9,Tier 1,16585000,Stale 90+ days
+ACC0155,Vertex Media,Mid-Market,Manufacturing,East,4008960,0.9,Tier 1,588000.0,Stale 90+ days
+ACC0089,Pinnacle Industries,SMB,Financial Services,APAC,456937,0.9,Tier 1,45000.0,Stale 90+ days
+ACC0045,Luminary Group,Enterprise,Retail,West,15427044,0.89,Tier 1,2504000.0,Stale 90+ days
+ACC0162,Cobalt Industries,Mid-Market,Financial Services,West,2035488,0.89,Tier 1,374000.0,Stale 90+ days
+ACC0160,Orbit Networks,SMB,Manufacturing,East,162615,0.89,Tier 1,25000.0,Stale 90+ days
+ACC0041,Archway Networks,SMB,Retail,East,63560,0.89,Tier 1,3000.0,Stale 90+ days
+ACC0128,Luminary Capital,Enterprise,Manufacturing,APAC,11039171,0.88,Tier 1,1802000.0,Active
+ACC0188,Summit Global,SMB,Financial Services,East,245293,0.88,Tier 1,31000.0,Stale 90+ days
+ACC0124,Catalyst Corp,Strategic,Healthcare,APAC,42927298,0.87,Tier 1,6114000.0,Stale 90+ days

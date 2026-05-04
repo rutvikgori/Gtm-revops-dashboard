@@ -1,0 +1,38 @@
+"territory_name","segment","industry","rep_name","quota_usd","open_deals","open_pipeline_usd","closed_won_usd","pipeline_coverage_ratio","pipeline_health"
+Mid-Market – Manufacturing,Mid-Market,Manufacturing,,,0,0,0,,At Risk
+Mid-Market – Retail,Mid-Market,Retail,,,0,0,0,,At Risk
+SMB – Manufacturing,SMB,Manufacturing,,,0,0,0,,At Risk
+SMB – Retail,SMB,Retail,,,0,0,0,,At Risk
+Strategic – Healthcare,Strategic,Healthcare,,,0,0,0,,At Risk
+Strategic – Retail,Strategic,Retail,,,0,0,0,,At Risk
+Strategic – Technology,Strategic,Technology,,,0,0,0,,At Risk
+Enterprise – Retail,Enterprise,Retail,Dakota Anderson,1200000,0,0,0,0.0,At Risk
+SMB – Technology,SMB,Technology,Riley Brown,400000,0,0,0,0.0,At Risk
+SMB – Technology,SMB,Technology,Sydney Allen,400000,0,0,0,0.0,At Risk
+Strategic – Financial Services,Strategic,Financial Services,Tristan Hernandez,2000000,0,0,0,0.0,At Risk
+Strategic – Manufacturing,Strategic,Manufacturing,Logan Garcia,2000000,0,0,0,0.0,At Risk
+SMB – Technology,SMB,Technology,Kendall Martin,400000,1,54930,0,0.14,At Risk
+SMB – Technology,SMB,Technology,Mason Robinson,400000,4,157406,0,0.39,At Risk
+Mid-Market – Financial Services,Mid-Market,Financial Services,Tatum Young,750000,2,513481,0,0.68,At Risk
+Strategic – Manufacturing,Strategic,Manufacturing,Mackenzie Martinez,2000000,1,1642558,3299910,0.82,At Risk
+Enterprise – Technology,Enterprise,Technology,Peyton Clark,1200000,2,996934,0,0.83,At Risk
+Enterprise – Retail,Enterprise,Retail,Skyler Walker,1200000,2,1182749,0,0.99,At Risk
+Enterprise – Financial Services,Enterprise,Financial Services,Emerson Thomas,1200000,2,1311304,0,1.09,At Risk
+SMB – Financial Services,SMB,Financial Services,Jordan Chen,400000,12,577712,106837,1.44,At Risk
+SMB – Healthcare,SMB,Healthcare,Reese Lewis,400000,11,587164,81099,1.47,At Risk
+Enterprise – Financial Services,Enterprise,Financial Services,Sage Lee,1200000,2,1825298,0,1.52,Adequate
+SMB – Healthcare,SMB,Healthcare,Quinn Rodriguez,400000,9,625585,0,1.56,Adequate
+Mid-Market – Financial Services,Mid-Market,Financial Services,Blake Moore,750000,6,1277419,0,1.7,Adequate
+Enterprise – Retail,Enterprise,Retail,Wynne King,1200000,3,2235815,0,1.86,Adequate
+Enterprise – Financial Services,Enterprise,Financial Services,Spencer Hall,1200000,3,2320384,737728,1.93,Adequate
+Mid-Market – Healthcare,Mid-Market,Healthcare,Alex Patel,750000,7,1574455,126372,2.1,Adequate
+Enterprise – Manufacturing,Enterprise,Manufacturing,Casey Williams,1200000,3,2548351,0,2.12,Adequate
+Enterprise – Manufacturing,Enterprise,Manufacturing,Hayden White,1200000,5,2652565,0,2.21,Adequate
+Enterprise – Financial Services,Enterprise,Financial Services,Drew Miller,1200000,3,2784568,783648,2.32,Adequate
+Mid-Market – Healthcare,Mid-Market,Healthcare,Cameron Taylor,750000,8,1866530,0,2.49,Adequate
+Mid-Market – Financial Services,Mid-Market,Financial Services,Hunter Harris,750000,10,2637009,0,3.52,Strong
+Enterprise – Technology,Enterprise,Technology,Avery Wilson,1200000,7,4519237,906011,3.77,Strong
+Mid-Market – Technology,Mid-Market,Technology,Jamie Davis,750000,13,2900236,156926,3.87,Strong
+Strategic – Financial Services,Strategic,Financial Services,Finley Jackson,2000000,3,8299823,0,4.15,Strong
+Enterprise – Healthcare,Enterprise,Healthcare,Morgan Smith,1200000,11,8128822,0,6.77,Strong
+Strategic – Manufacturing,Strategic,Manufacturing,Taylor Johnson,2000000,5,13934947,0,6.97,Strong

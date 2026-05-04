@@ -1,0 +1,31 @@
+"rep_id","rep_name","role","segment","industry","territory_name","quota_usd","assigned_accounts","capacity_limit","capacity_utilization_pct","open_pipeline_usd","pipeline_coverage_ratio","capacity_status"
+R003,Morgan Smith,Sr. AE,Enterprise,Healthcare,Enterprise – Healthcare,1200000,99,30,330.0,73159398,60.97,Over Capacity
+R007,Jamie Davis,Sr. AE,Mid-Market,Technology,Mid-Market – Technology,750000,104,50,208.0,23201888,30.94,Over Capacity
+R001,Jordan Chen,Sr. AE,SMB,Financial Services,SMB – Financial Services,400000,108,80,135.0,5199408,13.0,Over Capacity
+R004,Taylor Johnson,AE,Strategic,Manufacturing,Strategic – Manufacturing,2000000,20,15,133.3,55739788,27.87,Over Capacity
+R016,Hunter Harris,Sr. AE,Mid-Market,Financial Services,Mid-Market – Financial Services,750000,60,50,120.0,15822054,21.1,Over Capacity
+R009,Avery Wilson,Sr. AE,Enterprise,Technology,Enterprise – Technology,1200000,35,30,116.7,22596185,18.83,Over Capacity
+R023,Reese Lewis,Sr. AE,SMB,Healthcare,SMB – Healthcare,400000,77,80,96.3,4110148,10.28,Near Capacity
+R002,Alex Patel,AE,Mid-Market,Healthcare,Mid-Market – Healthcare,750000,42,50,84.0,9446730,12.6,Near Capacity
+R022,Quinn Rodriguez,Sr. AE,SMB,Healthcare,SMB – Healthcare,400000,54,80,67.5,3753510,9.38,Healthy
+R011,Cameron Taylor,AE,Mid-Market,Healthcare,Mid-Market – Healthcare,750000,32,50,64.0,7466120,9.95,Healthy
+R010,Blake Moore,Sr. AE,Mid-Market,Financial Services,Mid-Market – Financial Services,750000,30,50,60.0,6387095,8.52,Healthy
+R015,Hayden White,Sr. AE,Enterprise,Manufacturing,Enterprise – Manufacturing,1200000,15,30,50.0,7957695,6.63,Healthy
+R008,Drew Miller,AE,Enterprise,Financial Services,Enterprise – Financial Services,1200000,12,30,40.0,11138272,9.28,Healthy
+R014,Finley Jackson,AE,Strategic,Financial Services,Strategic – Financial Services,2000000,6,15,40.0,16599646,8.3,Healthy
+R030,Wynne King,AE,Enterprise,Retail,Enterprise – Retail,1200000,9,30,30.0,6707445,5.59,Underutilized
+R005,Casey Williams,AE,Enterprise,Manufacturing,Enterprise – Manufacturing,1200000,6,30,20.0,5096702,4.25,Underutilized
+R021,Peyton Clark,AE,Enterprise,Technology,Enterprise – Technology,1200000,6,30,20.0,2990802,2.49,Underutilized
+R028,Tatum Young,Sr. AE,Mid-Market,Financial Services,Mid-Market – Financial Services,750000,8,50,16.0,2053924,2.74,Underutilized
+R020,Mason Robinson,Sr. AE,SMB,Technology,SMB – Technology,400000,12,80,15.0,472218,1.18,Underutilized
+R013,Emerson Thomas,Sr. AE,Enterprise,Financial Services,Enterprise – Financial Services,1200000,4,30,13.3,2622608,2.19,Underutilized
+R019,Mackenzie Martinez,AE,Strategic,Manufacturing,Strategic – Manufacturing,2000000,2,15,13.3,3285116,1.64,Underutilized
+R029,Tristan Hernandez,Sr. AE,Strategic,Financial Services,Strategic – Financial Services,2000000,2,15,13.3,0,0.0,Underutilized
+R026,Spencer Hall,AE,Enterprise,Financial Services,Enterprise – Financial Services,1200000,3,30,10.0,2320384,1.93,Underutilized
+R018,Logan Garcia,AE,Strategic,Manufacturing,Strategic – Manufacturing,2000000,1,15,6.7,0,0.0,Underutilized
+R024,Sage Lee,Sr. AE,Enterprise,Financial Services,Enterprise – Financial Services,1200000,2,30,6.7,1825298,1.52,Underutilized
+R025,Skyler Walker,AE,Enterprise,Retail,Enterprise – Retail,1200000,2,30,6.7,1182749,0.99,Underutilized
+R012,Dakota Anderson,AE,Enterprise,Retail,Enterprise – Retail,1200000,1,30,3.3,0,0.0,Underutilized
+R017,Kendall Martin,AE,SMB,Technology,SMB – Technology,400000,1,80,1.3,54930,0.14,Underutilized
+R006,Riley Brown,AE,SMB,Technology,SMB – Technology,400000,0,80,0.0,0,0.0,Underutilized
+R027,Sydney Allen,Sr. AE,SMB,Technology,SMB – Technology,400000,0,80,0.0,0,0.0,Underutilized
