@@ -3,7 +3,7 @@
 A 5-page Power BI dashboard built to analyze pipeline health, 
 rep performance, territory balance, and forecast trends.
 
-## 🔗 Dashboard attached as PDF Below
+## 🔗 Dashboard attached as PDF Below.
 
 ## Pages
 
